@@ -127,5 +127,5 @@ This project provided hands-on experience with:
 ---
 
 ## ✨ Acknowledgments
-Developed by **Gurmaanpreet Singh**
+Developed by **Gurmaanpreet Singh Insan**
 as part of **CipherSchools Summer Training: Machine Learning with Data Science**.
